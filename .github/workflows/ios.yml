@@ -15,7 +15,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Set Default Scheme
-      -branch Feature/TEST
+      - branch: Feature/TEST
 
       -name: Parameters
       Type: Bollen
